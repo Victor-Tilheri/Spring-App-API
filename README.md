@@ -1,7 +1,7 @@
 # Spring-App-API
-API desenvolvida utilizando a tecnologia Spring Boot, para fins de aprendizado.
+API developed with Java Spring Boot for learning purposes.
 
-### Tecnologias
+## Technologies
 - Java
 - Spring Boot
 - MySQL
